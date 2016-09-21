@@ -8,6 +8,8 @@ CHANGELOG
   styles already on the page
 * Fixed an issue with dropzone strings visible inside djangocms-text-ckeditor
   image preview under certain circumstances
+* Fixed a bug with extra whitespace appearing after label and button plugins
+* Added EditorConfig file to prevent regressions in label and button plugins
 
 1.1.2 (2016-09-05)
 ------------------
